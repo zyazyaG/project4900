@@ -27,8 +27,6 @@ In order to create and activate environment for this project, navigate to the th
 │   ├── templates    <-- html files 
 │   └── static       <-- css files and images
 │
-├── references       <-- Data dictionaries
-│
 └── figures          <-- Generated graphics and figures to be used in reporting
 ```
 
